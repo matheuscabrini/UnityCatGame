@@ -1,0 +1,24 @@
+- Improve visuals and sprites
+	- Better platforms and assets like cubes
+
+- Improve slime enemies
+	- Add non-stompable slimes (spiky top or helmet?)
+	- Make slimes killable through stomp and hadouken
+	- Death animation (maybe addForce up, then remove collision and let it fall through the screen?)
+		- Or explosion vfx?
+
+- Add sound fx (cat sounds :3, etc)
+
+- Stage building:
+	- More and better enemy placement
+	- Rewind/teleport puzzles
+	- Cube puzzles
+
+- Cat:
+	- Add HP to cat, and make it interact with slime collision
+	- Add hadouken power up to world
+	- Add hadouken animation and mechanic to cat, interaction with enemies
+	- Add Braid-like teleport/rewind mechanic
+	- Improve cat jump/falling animation
+
+- Add menus, gameover, stage restart, transition between stages, etc
